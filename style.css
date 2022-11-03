@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://elviajerofeliz.com/wp-content/uploads/2020/01/Comida-t%C3%ADpica-de-Colombia-Platos-Imprescindibles.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.titulo-1{
+    background-color: rgb(187, 173, 173);
+    color: brown;
+    font-size: 35px;
+}
+.button{
+    background-color: rgb(211, 172, 144);
+    color: brown;
+    font-size: 20px;
+    font-weight: 900;
+}
+.body-new{
+    background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/GA7PRFTKMVHWBCPUKDV2URQWSI.jpg);
+    font-size: 40px;
+}
+.button-2{
+    color: brown;
+    background-color: burlywood;
+    font-weight: 1000;
+    font-size: 20px;
+}
+.comida{
+    color: brown;
+}
+.nom{
+    color: brown;
+}
+.valor{
+    color: brown;
+}
+td{
+    color: rgb(37, 37, 26);
+}
